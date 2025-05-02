@@ -1,0 +1,1 @@
+Ce dépôt contient quelques DM et TP réalisés durant mon parcours universitaire, l'objectif étant de mettre en avant les principales notions vues et le savoir-faire acquis à travers des exemples concrets.
